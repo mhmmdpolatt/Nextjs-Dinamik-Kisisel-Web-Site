@@ -62,7 +62,7 @@ export default function BlogSection() {
                             <p className="text-gray-400 max-w-2xl mx-auto">
                                 Yazılarımı kendi oluşturduğum web sitesinde paylaşıyorum. Sizler de orada hesap oluşturup geliştirici içerikler paylaşabilirsiniz.
                             </p>
-                            <Link href="https://your-blog-platform.com" passHref>
+                            <Link href="https://myblog-react-mdpol.netlify.app/#/" passHref>
                                 <button className="mt-6 bg-yellow-400 text-black font-bold py-2 px-6 rounded-lg hover:bg-yellow-500 transition duration-300">
                                     Uygulamaya Git
                                 </button>
