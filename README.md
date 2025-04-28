@@ -1,3 +1,18 @@
+
+# Proje Başlığı
+
+Next Js ile Oluşturulmuş Dinamik Kişisel Web Sayfam 
+
+
+
+## Demo
+
+https://nextjs-dinamik-kisisel-web-site.vercel.app/
+
+
+  
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
