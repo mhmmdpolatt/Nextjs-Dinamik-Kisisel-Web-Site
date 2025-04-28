@@ -3,6 +3,7 @@ import React from 'react'
 import { motion } from 'framer-motion'
 import { FaGithub } from 'react-icons/fa'
 import Link from 'next/link'
+import Image from 'next/image'
 
 const liveProjects = [
     {
@@ -97,7 +98,14 @@ export default function ProjelerSection() {
                             className="relative bg-white/5 border border-white/10 backdrop-blur-md rounded-xl p-5 w-full sm:w-[80%] md:w-[45%] lg:w-1/3 shadow-xl group hover:border-purple-400/30 transition-all duration-300"
                         >
                             <div className="overflow-hidden rounded-lg mb-4">
-                                <img src={project.image} alt={project.title} className="w-full h-52 object-cover rounded-md" />
+                                <Image
+                                    src={project.image}
+                                    alt={project.title}
+                                    width={500} // uygun bir genişlik belirle
+                                    height={200} // uygun bir yükseklik belirle
+                                    className="w-full h-52 object-cover rounded-md"
+                                />
+
                             </div>
                             <h4 className="text-xl font-semibold text-purple-300 mb-2">{project.title}</h4>
                             <p className="text-gray-300 text-sm mb-4">{project.description}</p>

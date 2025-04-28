@@ -30,8 +30,9 @@ export default function FreelancerSection() {
                     <FaCode size={30} className="text-purple-300 mb-4" />
                     <h3 className="text-xl font-semibold mb-2 text-purple-200">Freelance Geliştirme</h3>
                     <p className="text-gray-300 text-sm">
-                        UI/UX'ten backend'e kadar projelerinizi uçtan uca hayata geçiriyorum.
+                        UI/UX&apos;ten backend&apos;e kadar projelerinizi uçtan uca hayata geçiriyorum.
                     </p>
+
                 </motion.div>
 
                 <motion.div
@@ -47,7 +48,7 @@ export default function FreelancerSection() {
             </div>
 
             <NelerYapabilirim />
-            <IletisimSection/>
+            <IletisimSection />
         </section>
     )
 }
