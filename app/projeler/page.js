@@ -9,21 +9,21 @@ const liveProjects = [
     {
         title: 'MYB SOCİAL APP',
         description: 'Profil Oluşturup Gönderi Oluşturabileceğiniz İnsanları Takip Edebileceğiniz Gönderileri Kaydedebileceğiniz Özelleiştirilmiş Ana Sayfa Akışı Oluşturabileceğiniz Web Projesi.',
-        image: '/MYBGUNCEL.png',
+        image: '/MYBGUNCEL.webp',
         tech: ['React', "Express", "MongoDB", 'Tailwind', 'Vercel', "NodeJS"],
         url: 'https://myblog-react-mdpol.netlify.app/#/',
     },
     {
         title: 'TOURS APP',
         description: 'Next js ile yapılmış, gezilecek yerleri listeleyen ve detaylarını gösteren bir uygulama. Geliştrilmiş Filtreleme Seçenekleri Sunar.',
-        image: '/ToursApp1.png',
+        image: '/ToursApp1.webp',
         tech: ['NextJS', 'Framer Motion', "Tailwind CSS"],
         url: 'https://next-js-project-psi-green.vercel.app/',
     },
     {
         title: 'İnşaat Firması Web Sitesi',
         description: 'Kurumsal bir inşaat firması için yapılmış web sitesi. Tam İçerik Yönetim Sistemi.Modern Ve Responsive Tasarım.',
-        image: '/Ameda1.png',
+        image: '/Ameda1.webp',
         tech: ['NextJS', 'Framer Motion', "Tailwind CSS"],
         url: 'https://amedainsaat.com/projeler',
     },
@@ -31,7 +31,7 @@ const liveProjects = [
         title: 'TMDB API',
         description: 'TMDB API kullanarak film ve dizi arama uygulaması. Kullanıcıların favori içeriklerini kaydedebileceği bir sistem.',
 
-        image: '/Movie1.png',
+        image: '/Movie1.webp',
         tech: ["React", "Tailwind CSS", "TMDB API"],
         url: 'https://demomovieappmhmmdpolatt.netlify.app/',
     },
