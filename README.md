@@ -1,5 +1,5 @@
 
-# Proje Başlığı
+# Kişisel Web Site
 
 Next Js ile Oluşturulmuş Dinamik Kişisel Web Sayfam 
 
@@ -8,6 +8,10 @@ Next Js ile Oluşturulmuş Dinamik Kişisel Web Sayfam
 ## Demo
 
 https://nextjs-dinamik-kisisel-web-site.vercel.app/
+
+## Özellikler
+
+Kendimi tanıttığım , bloglarımı projelerimi sergilediğim ,yetkinliklerimi gösterdiğim site.
 
 
   
