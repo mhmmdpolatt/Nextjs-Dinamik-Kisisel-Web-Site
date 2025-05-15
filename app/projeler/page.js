@@ -38,11 +38,7 @@ const liveProjects = [
 ]
 
 const githubProjects = [
-    {
-        title: 'JWT Auth API',
-        description: 'Kullanıcı kayıt, giriş, token yenileme sistemi.',
-        url: 'https://github.com/kankam/jwt-auth-api',
-    },
+    
     {
         title: 'Web Socket Chat App',
         description: 'Gerçek zamanlı sohbet uygulaması. Kullanıcılar arasında anlık mesajlaşma.',
