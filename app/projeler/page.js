@@ -58,6 +58,7 @@ const githubProjects = [
     {
         title:"JavaScript Kart Çevirme Oyunu",
         description:"JavaScript ile yapılmış basit bir kart çevirme oyunu. Kullanıcı arayüzü ve temel oyun mekaniği.",
+        url:"https://github.com/mhmmdpolatt/FlipCard"
     }
 ]
 
