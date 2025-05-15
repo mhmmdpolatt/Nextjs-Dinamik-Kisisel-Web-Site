@@ -53,9 +53,7 @@ const githubProjects = [
     {
         title: 'OOP Music Player',
         description: 'OOP ile yapılmış müzik çalar uygulaması. Kullanıcı arayüzü ve temel müzik çalma özellikleri.',
-
-
-        url: 'hhttps://github.com/mhmmdpolatt/MusicPlayer',
+        url: 'https://github.com/mhmmdpolatt/MusicPlayer',
     },
     {
         title:"JavaScript Kart Çevirme Oyunu",
