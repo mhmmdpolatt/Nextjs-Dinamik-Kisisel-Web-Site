@@ -46,21 +46,25 @@ const githubProjects = [
     {
         title: 'Web Socket Chat App',
         description: 'Gerçek zamanlı sohbet uygulaması. Kullanıcılar arasında anlık mesajlaşma.',
-        url: 'https://github.com/kankam/image-converter-cli',
+        url: 'https://github.com/mhmmdpolatt/ChatApp',
     },
     {
         title: 'FUll Rest Api',
 
         description: 'Baştan Sona REST API. Kullanıcı yönetimi, ürün yönetimi, yorum sistemi.',
-        url: 'https://github.com/kankam/image-converter-cli',
+        url: 'https://github.com/mhmmdpolatt/restapi',
     },
     {
         title: 'OOP Music Player',
         description: 'OOP ile yapılmış müzik çalar uygulaması. Kullanıcı arayüzü ve temel müzik çalma özellikleri.',
 
 
-        url: 'https://github.com/kankam/image-converter-cli',
+        url: 'hhttps://github.com/mhmmdpolatt/MusicPlayer',
     },
+    {
+        title:"JavaScript Kart Çevirme Oyunu",
+        description:"JavaScript ile yapılmış basit bir kart çevirme oyunu. Kullanıcı arayüzü ve temel oyun mekaniği.",
+    }
 ]
 
 export default function ProjelerSection() {
@@ -154,7 +158,7 @@ export default function ProjelerSection() {
 
             {/* GitHub Projects */}
             <div>
-                <h3 className="text-2xl font-bold text-purple-300 mb-10 text-center">💾 GitHub Projeleri</h3>
+                <h3 className="text-2xl font-bold text-purple-300 mb-10 text-center">💾 GitHub Mini Projeler</h3>
                 <div className="space-y-6 max-w-2xl mx-auto">
                     {githubProjects.map((repo, i) => (
                         <motion.a
