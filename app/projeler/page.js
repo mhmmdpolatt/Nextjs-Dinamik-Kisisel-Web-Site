@@ -7,6 +7,14 @@ import Image from 'next/image'
 
 const liveProjects = [
     {
+        title: 'My Movies App',
+        description: 'TMDB API kullanarak film ve dizi arama uygulaması. Kullanıcıların favori içeriklerini kaydedebileceği bir sistem.',
+
+        image: '/MyMoviesNew.PNG',
+        tech: ["Nextjs", "Tailwind CSS", "TMDB API"],
+        url: 'https://nextjs-movie-app-mauve.vercel.app/',
+    },
+    {
         title: 'MYB SOCİAL APP',
         description: 'Profil Oluşturup Gönderi Oluşturabileceğiniz İnsanları Takip Edebileceğiniz Gönderileri Kaydedebileceğiniz Özelleiştirilmiş Ana Sayfa Akışı Oluşturabileceğiniz Web Projesi.',
         image: '/MYBGUNCEL.webp',
@@ -27,14 +35,7 @@ const liveProjects = [
         tech: ['NextJS', 'Framer Motion', "Tailwind CSS"],
         url: 'https://amedainsaat.com/projeler',
     },
-    {
-        title: 'TMDB API',
-        description: 'TMDB API kullanarak film ve dizi arama uygulaması. Kullanıcıların favori içeriklerini kaydedebileceği bir sistem.',
-
-        image: '/Movie1.webp',
-        tech: ["React", "Tailwind CSS", "TMDB API"],
-        url: 'https://demomovieappmhmmdpolatt.netlify.app/',
-    },
+    
 ]
 
 const githubProjects = [
