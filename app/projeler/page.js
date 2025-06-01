@@ -17,9 +17,9 @@ const liveProjects = [
     {
         title: 'Yazılım Firması Web Sitesi',
         description: 'Yazılım firamsı için hazırldaığım modern responsive uyumu site',
-        image: '/WizardsTech.png',
+        image: '/wizards2.PNG',
         tech: ['NextJS', 'Framer Motion', "Tailwind CSS"],
-        url: 'https://amedainsaat.com/projeler',
+        url: 'https://wizardstech.vercel.app',
         tur: "firmalar"
     },
     {
