@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        remotePatterns: ['mern-stack-server-czfb.onrender.com'],
+        domains: ['mern-stack-server-czfb.onrender.com'],
     },
 };
 
