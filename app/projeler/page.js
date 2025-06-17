@@ -17,7 +17,7 @@ const liveProjects = [
     {
         title: 'Yeşil Aliminyum Fabrikası Web Sitesi',
         description: 'Kurumsal bir alüminyum fabrikası için yapılmış web sitesi. Tam İçerik Yönetim Sistemi.Modern Ve Responsive Tasarım.Çoklu Dil Desteği.',
-        image: '/YesilAluminyum.PNG',
+        image: '/yesilaluminyum.png',
         tech: ['NextJS', 'Framer Motion', "Tailwind CSS", "i18next"],
         url: 'http://31.97.47.150:3000/de',
         tur: "firmalar"
